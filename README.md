@@ -1,4 +1,4 @@
-<style>
+<style style="display: none">
 .social-media-link {
     height: 40px;
     margin: 1%;
