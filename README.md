@@ -2,13 +2,12 @@
 ##### Welcome to my Github profile!
 
 ##### Contact me!
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedrohdjs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedrohdjs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pedrohdjs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](mailto:pedrohdjs@outlook.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pedrohdjs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pedrohdjs/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](mailto:pedrohdjs@outlook.com)  
 
 ##### Currently, I'm...
 - A Web Developer @ [Raccoon Marketing Digital](https://www.linkedin.com/company/raccoon-marketing-digital/)
 - Studying Computer Science @ [University of São Paulo](https://www5.usp.br/english/institutional/)
 - Learning lots of stuff about Web Development, Software Engineering and a little bit of everything in between!
-- A [Fellowship of The Game](https://www.facebook.com/fogicmc) member!
 
 ##### My tech skills
 <center>
